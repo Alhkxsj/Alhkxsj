@@ -13,32 +13,27 @@
 <p align="center">
   <samp>
     hi, i'm <b>Axi</b>, aka <code>@Alhkxsj</code>.<br><br>
-    🇨🇳 China · UTC+08:00, a底层代码混子 who somehow ended up messing with low-level stuff.<br><br>
+    🇨🇳 China · UTC+08:00<br>
+    a 底层代码混子 who somehow ended up messing with low-level stuff.<br><br>
     my bio says it — <i>I keep writing spaghetti code.</i><br>
-    and that's not modesty, that's a confession.<br>
-    every line you see here is probably copy-pasted from StackOverflow,<br>
-    or written at 3am while half-asleep and heavily caffeinated.<br><br>
-    i mess around with some hardcore things like<br>
-    <b>Hypervisor · U-Boot · Container Runtime · Kernel · Termux</b><br>
-    but don't be fooled — most of my time is spent<br>
-    <code>printf</code> debugging and praying for no segfault.<br><br>
+    and that's not modesty, that's a confession.<br><br>
+    i mess around with <b>Hypervisor · U-Boot · Container Runtime · Kernel · Termux</b>,<br>
+    but most of my time is spent <code>printf</code> hook 重度依赖 💊<br><br>
+    Code written by AI. Bugs retained by human.<br><br>
     5 minutes of coding, 2 hours of compile errors,<br>
-    3 hours of Googling, and turns out i missed a semicolon.<br>
+    3 hours of Googling, missed a semicolon.<br>
     that's my daily routine.<br><br>
-    oh and btw — my english isn't great.<br>
-    i learned most of it from compiler errors and random github issues at 3am.<br>
-    so if you see weird grammar or missing capital letters...<br>
-    that's not a bug, i'm just too lazy to press shift.<br>
-    sorry in advance for any confusion 🙏<br><br>
-    also, fair warning:<br>
-    i start projects way more often than i finish or maintain them.<br>
-    most of my time is spent procrastinating, watching videos, or gaming.<br>
+    fair warning: i start projects more often than i finish them.<br>
     if a repo hasn't been updated in months — that's completely normal.<br>
-    this is a code dumpster, not a dumpster, not a product showroom 🗑️🎮<br><br>
+    this is a code dumpster, not a product showroom 🗑️🎮<br><br>
     anyway, welcome to my dumpster.<br>
     <b>the code is trash but i'm a decent person.</b><br>
     please be gentle 🙏
   </samp>
+</p>
+
+<p align="center">
+  <samp><i>Me English Good (very sure)</i></samp>
 </p>
 
 <p align="center">
@@ -59,8 +54,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/spaghetti%20code-100%25-f97316?style=flat-square&logo=codechef&logoColor=white" />
-  <img src="https://img.shields.io/badge/printf%20debugger-certified-667eea?style=flat-square" />
-  <img src="https://img.shields.io/badge/copy--paste%20engineer-pro-764ba2?style=flat-square" />
+  <img src="https://img.shields.io/badge/printf%20hook%20重度依赖-certified-667eea?style=flat-square" />
+  <img src="https://img.shields.io/badge/AI%20Generated%2C%20Human%20Debugged-pro-764ba2?style=flat-square" />
   <img src="https://img.shields.io/badge/it%20works%20on%20my%20machine-green?style=flat-square" />
   <img src="https://img.shields.io/badge/bugs-%E2%88%9E-red?style=flat-square" />
   <img src="https://img.shields.io/badge/coffee-powered-f093fb?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
