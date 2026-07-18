@@ -25,12 +25,16 @@
     5 minutes of coding, 2 hours of compile errors,<br>
     3 hours of Googling, and turns out i missed a semicolon.<br>
     that's my daily routine.<br><br>
-    oh and btw — my english is absolutely terrible.<br>
-    i learned it from compiler error messages and random github issues at 3am.<br>
+    oh and btw — my english isn't great.<br>
+    i learned most of it from compiler errors and random github issues at 3am.<br>
     so if you see weird grammar or missing capital letters...<br>
-    that's not a bug, that's a feature.<br>
-    i'm just too lazy to press shift.<br>
-    sorry for any brain damage caused by reading this 🧠💀<br><br>
+    that's not a bug, i'm just too lazy to press shift.<br>
+    sorry in advance for any confusion 🙏<br><br>
+    also, fair warning:<br>
+    i start projects way more often than i finish or maintain them.<br>
+    most of my time is spent procrastinating, watching videos, or gaming.<br>
+    if a repo hasn't been updated in months — that's completely normal.<br>
+    this is a code dumpster, not a dumpster, not a product showroom 🗑️🎮<br><br>
     anyway, welcome to my dumpster.<br>
     <b>the code is trash but i'm a decent person.</b><br>
     please be gentle 🙏
@@ -68,7 +72,7 @@
 
 <p align="center">
   <samp>
-    some numbers (don't take them too seriously):
+    some numbers (don't take them too seriously, most of those commits are panic fixes):
   </samp>
 </p>
 
