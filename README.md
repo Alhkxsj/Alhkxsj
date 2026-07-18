@@ -23,9 +23,8 @@
     5 minutes of coding, 2 hours of compile errors,<br>
     3 hours of Googling, missed a semicolon.<br>
     that's my daily routine.<br><br>
-    fair warning: i start projects more often than i finish them.<br>
-    if a repo hasn't been updated in months — that's completely normal.<br>
-    this is a code dumpster, not a product showroom 🗑️🎮<br><br>
+    plan twice, abandon once. 🗑️<br>
+    this is a code dumpster, not a product showroom.<br><br>
     anyway, welcome to my dumpster.<br>
     <b>the code is trash but i'm a decent person.</b><br>
     please be gentle 🙏
