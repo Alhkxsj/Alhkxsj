@@ -49,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,kotlin,bash,linux,shell,git,vim,github&perline=8&theme=light" />
+    <img src="https://skillicons.dev/icons?i=c,kotlin,bash,linux,git,vim,github&perline=8&theme=light" />
   </a>
 </p>
 
