@@ -13,19 +13,15 @@
 <p align="center">
   <samp>
     hi, i'm <b>Axi</b>, aka <code>@Alhkxsj</code>.<br><br>
-    🇨🇳 China · UTC+08:00<br>
-    a 底层代码混子 who somehow ended up messing with low-level stuff.<br><br>
-    my bio says it — <i>I keep writing spaghetti code.</i><br>
-    and that's not modesty, that's a confession.<br><br>
-    i mess around with <b>Hypervisor · U-Boot · Container Runtime · Kernel · Termux</b>,<br>
-    but most of my time is spent <code>printf</code> hook 重度依赖 💊<br><br>
+    🇨🇳 China · UTC+08:00<br><br>
+    <i>I keep writing spaghetti code.</i><br>
+    not modesty. a confession.<br><br>
+    i mess with <b>Hypervisor · U-Boot · Container Runtime · Kernel · Termux</b>,<br>
+    but mostly <code>printf</code> hook 重度依赖 💊<br><br>
     Code written by AI. Bugs retained by human.<br><br>
-    5 minutes of coding, 2 hours of compile errors,<br>
-    3 hours of Googling, missed a semicolon.<br>
-    that's my daily routine.<br><br>
-    plan twice, abandon once. 🗑️<br>
-    this is a code dumpster, not a product showroom.<br><br>
-    anyway, welcome to my dumpster.<br>
+    5 min coding, 2h compile errors,<br>
+    3h Googling, missed a semicolon.<br><br>
+    plan twice, abandon once. 🗑️<br><br>
     <b>the code is trash but i'm a decent person.</b><br>
     please be gentle 🙏
   </samp>
@@ -39,19 +35,19 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
 </p>
 
-<p align="center">
-  <samp>
-    things i barely know how to use (in no particular order, depends on my mood):
-  </samp>
-</p>
+<!-- 以下为次要信息，左对齐 -->
 
-<p align="center">
+### 🛠️ things i barely know how to use
+
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,kotlin,bash,linux,git,vim,github&perline=8&theme=light" />
   </a>
 </p>
 
-<p align="center">
+### 🏷️ stats & badges
+
+<p>
   <img src="https://img.shields.io/badge/spaghetti%20code-100%25-f97316?style=flat-square&logo=codechef&logoColor=white" />
   <img src="https://img.shields.io/badge/printf%20hook%20重度依赖-certified-667eea?style=flat-square" />
   <img src="https://img.shields.io/badge/AI%20Generated%2C%20Human%20Debugged-pro-764ba2?style=flat-square" />
@@ -60,32 +56,22 @@
   <img src="https://img.shields.io/badge/coffee-powered-f093fb?style=flat-square&logo=buy-me-a-coffee&logoColor=white" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
-</p>
+> <samp>some numbers (don't take them too seriously, most of those commits are panic fixes)</samp>
 
-<p align="center">
-  <samp>
-    some numbers (don't take them too seriously, most of those commits are panic fixes):
-  </samp>
-</p>
-
-<p align="center">
+<p>
   <img width="420" src="https://github-readme-stats-one-bice.vercel.app/api?username=Alhkxsj&role=OWNER,ORGANIZATION_MEMBER&show_icons=true&theme=transparent&hide_border=true&text_color=667eea&title_color=764ba2&icon_color=f093fb" />
   <img width="420" src="https://github-readme-stats.vercel.app/api?username=Alhkxsj&theme=transparent&show_icons=true&hide_border=true&show=reviews,discussions_started&hide_title=true&hide=contribs&number_format=long&include_all_commits=true&title_color=764ba2&icon_color=f093fb" />
 </p>
 
-<p align="center">
+<p>
   <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Alhkxsj&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" />
 </p>
 
-<p align="center">
+<p>
   <img width="800" src="https://github-profile-trophy.screw-hand.vercel.app/?username=Alhkxsj&no-bg=true&no-frame=true&theme=algolia&title=-MultiLanguage" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="60%" />
-</p>
+---
 
 <p align="center">
   <a href="https://github.com/Alhkxsj">
